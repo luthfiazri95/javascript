@@ -1,4 +1,11 @@
-var massage = "Hello Coding"
-let msg1 = "Hallo"
-const msg2 = "Coding"
-console.log(msg2);
+var massage = "Luthfi";
+let msg1 = "Azri";
+const msg2 = 25;
+
+
+if(true){
+
+}
+
+
+console.log(massage,msg1,msg2);
